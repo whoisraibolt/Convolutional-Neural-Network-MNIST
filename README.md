@@ -1,7 +1,5 @@
 # Construa sua própria Rede Neural Convolucional em 3, 2, 1...!
 
-Uma introdução as Redes Neurais Convolucionais em Python, usando o framework TensorFlow com Keras.
-
 Palestra ministrada no evento [IWD '19 - Women Techmakers](https://www.womentechmakers.com/iwd19 "IWD '19 - Women Techmakers") em Petrópolis/RJ promovido pelo [Google Developer Group (GDG) Petrópolis](https://github.com/GDGPetropolis "GDG Petrópolis").
 
 ## Visão Geral
