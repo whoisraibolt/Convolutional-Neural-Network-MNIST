@@ -1,5 +1,10 @@
 # Construa sua própria Rede Neural Convolucional em 3, 2, 1...!
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Convolutional-Neural-Network-MNIST.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Convolutional-Neural-Network-MNIST.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Convolutional-Neural-Network-MNIST.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Convolutional-Neural-Network-MNIST.svg)
+
 Palestra ministrada no evento [IWD '19 - Women Techmakers](https://www.womentechmakers.com/iwd19 "IWD '19 - Women Techmakers") em Petrópolis/RJ promovido pelo [Google Developer Group (GDG) Petrópolis](https://github.com/GDGPetropolis "GDG Petrópolis").
 
 ## Visão Geral
